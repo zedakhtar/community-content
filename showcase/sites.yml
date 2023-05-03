@@ -1224,4 +1224,15 @@
     - Next.js
   made_by: Ultrō
   made_by_url: https://ultro.agency
+- title: Email Templates 
+  url: https://www.mailmodo.com/email-templates/
+  description: This awesome website is using Strapi for managing the content of my Next.js application
+  categories:
+    - Corporate website
+    - Email marketing tool
+    - Email templates
+  frontend:
+    - Next.js
+  made_by: Mailmodo
+  made_by_url: https://www.mailmodo.com/
 
